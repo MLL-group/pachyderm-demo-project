@@ -1,0 +1,4 @@
+n_samples: 1_000
+n_features: 10
+n_classes: 2
+flip_y: 0.01
