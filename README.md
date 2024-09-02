@@ -1,6 +1,6 @@
 # Dataset versioning with Pachyderm
 
-#### Blog page: https://www.linkedin.com/pulse/data-management-dataset-versioning-alexander-ryabov/
+#### Blog page: https://medium.com/@lev.plotkin_45042/dataset-versioning-evaluation-for-ml-tasks-4470c1d35a5d
 
 - https://www.pachyderm.com
 - https://github.com/pachyderm/pachyderm
